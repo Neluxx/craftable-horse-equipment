@@ -1,26 +1,24 @@
 # Craftable horse armor
 
-This datapack allows players to craft all types of horse armor and saddles.
+Craftable Horse Armor is a Minecraft datapack that adds crafting recipes for all types of horse armor (iron, gold, and diamond) as well as saddles.
+No more relying on dungeon loot or trading to gear up your horse.
+This pack integrates seamlessly into vanilla gameplay, keeping recipe balance in mind while improving accessibility.
 
----
+## Features
+- Adds crafting recipes for:
+  - Iron Horse Armor
+  - Gold Horse Armor
+  - Diamond Horse Armor
+  - Saddles
+- Recipes are balanced and consistent with vanilla crafting logic
+- No other game mechanics or loot tables are changed
 
-# Features
-- Add recipes for all types of horse armor and saddles
-- Add knowledge books for all types of horse armor and saddles
+## Installation
 
----
+- Download the [datapack](https://github.com/Neluxx/craftable-horse-armor/releases/latest)
+- Move the datapack inside ``.minecraft/saves/<world>/datapacks`` ([How to find .minecraft?](https://minecraft.wiki/w/.minecraft#Locating))
+- Reload the world or run ``/reload``
 
-# Installation
-- Download the datapack ZIP file.
-- Move it into your world’s datapacks folder: ``.minecraft/saves/YOUR_WORLD/datapacks/``
-- Start your world & type: ``/reload``
-- (Optional) Verify it’s active: ``/datapack list``
+## Uninstalling
 
----
-
-# Uninstalling
-
-To remove the datapack:
-
-- Delete the datapack inside your datapacks directory: ``.minecraft/saves/YOUR_WORLD/datapacks/``
-- Reload the world: ``/reload``
+- Delete the datapack from ``.minecraft/saves/<world>/datapacks``
