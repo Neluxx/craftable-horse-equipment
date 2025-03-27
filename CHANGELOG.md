@@ -8,12 +8,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Add name tag recipe and corresponding advancement
 
 ### Changed
+- Change horse armor recipes to include wool in crafting pattern
+- Change saddle recipe to include iron ingots in crafting pattern
 
 ### Removed
 
 ### Fixed
+- Fix crafting pattern alignment in saddle recipe
 
 ## [v1.0.0](https://github.com/Neluxx/craftable-horse-armor/releases/tag/v1.0.0) - 2025-03-26
 
