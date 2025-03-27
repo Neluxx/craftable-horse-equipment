@@ -1,6 +1,6 @@
 # Craftable horse armor
 
-Craftable Horse Armor is a Minecraft datapack that adds crafting recipes for all types of horse armor (iron, gold, and diamond) as well as saddles.
+Craftable Horse Equipment is a Minecraft datapack that adds crafting recipes for all types of horse armor (iron, gold, and diamond) as well as saddles and name tags.
 No more relying on dungeon loot or trading to gear up your horse.
 This pack integrates seamlessly into vanilla gameplay, keeping recipe balance in mind while improving accessibility.
 
@@ -10,6 +10,7 @@ This pack integrates seamlessly into vanilla gameplay, keeping recipe balance in
   - Gold Horse Armor
   - Diamond Horse Armor
   - Saddles
+  - Name Tags
 - Recipes are balanced and consistent with vanilla crafting logic
 - No other game mechanics or loot tables are changed
 
