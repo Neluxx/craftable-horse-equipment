@@ -2,12 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": "minecraft:diamond"
+    "X": "minecraft:diamond",
+    "#": "#minecraft:wool"
   },
   "pattern": [
-    "X X",
-    "XXX",
-    "X X"
+    "  X",
+    "X#X",
+    "XXX"
   ],
   "result": {
     "count": 1,
