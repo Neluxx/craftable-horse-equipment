@@ -1,9 +1,9 @@
 {
     "pack": {
         "description": "Craftable Horse Armor – Recipes for Saddles and all types of Horse Armor",
-        "pack_format": 15,
+        "pack_format": 10,
         "supported_formats": {
-            "min_inclusive": 15,
+            "min_inclusive": 10,
             "max_inclusive": 71
         }
     },
